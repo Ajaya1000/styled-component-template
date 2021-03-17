@@ -8,7 +8,7 @@ const css1 = css`
 `;
 const css2 = css`
   ${css1};
-  background: blue;
+  background: red;
 `;
 const StyledDiv = styled.div`
   ${css2}
